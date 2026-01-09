@@ -1,1 +1,1 @@
-![snk](https://github.com/kaelsky/kaelsky/blob/output/github-snake-dark.svg)
+![snk](https://github.com/kaelsky/kaelsky/blob/output/github-contribution-grid-snake-dark.svg.svg)
